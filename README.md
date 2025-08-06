@@ -19,7 +19,7 @@ A simple Python-based **command-line application** that calculates the **area** 
 
 ## Getting Started
 
-### 🛠 Requirements
+### Requirements
 - Python 3.x
 
 ### Structure
@@ -36,21 +36,21 @@ python main.py
 
 ## Usage Example
 
-Please enter the shape you want the area and perimeter calculated for: rectangle
-Please enter the length of the rectangle in meters: 5
-Please enter the width of the rectangle in meters: 3
-The area and perimeter of the rectangle is:
-area = 15.0m²
-perimeter = 16.0m
+  Please enter the shape you want the area and perimeter calculated for: rectangle
+  Please enter the length of the rectangle in meters: 5
+  Please enter the width of the rectangle in meters: 3
+  The area and perimeter of the rectangle is:
+  area = 15.0m²
+  perimeter = 16.0m
 
 ---
 
 ##Behind the Scenes
 
-area_perimeter.py contains individual functions for:
-square_area(length)
-square_perimeter(length)
-calc_rectangle(length, width)
-calc_circle(radius)
-calc_triangle(base, height) (right-angled only)
-Each function returns either a single value (area/perimeter) or a tuple with both.
+  area_perimeter.py contains individual functions for:
+  square_area(length)
+  square_perimeter(length)
+  calc_rectangle(length, width)
+  calc_circle(radius)
+  calc_triangle(base, height) (right-angled only)
+  Each function returns either a single value (area/perimeter) or a tuple with both.
