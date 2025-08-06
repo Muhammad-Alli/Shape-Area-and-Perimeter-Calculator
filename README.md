@@ -6,7 +6,7 @@ A simple Python-based **command-line application** that calculates the **area** 
 
 ## Features
 
-- Calculates **area** and **perimeter** for user selectable shapes:
+- Calculates **area** and **perimeter** with user specified parameter values for user selectable shapes:
   - Square
   - Rectangle
   - Circle
