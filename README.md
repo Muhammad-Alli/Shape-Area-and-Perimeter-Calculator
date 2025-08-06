@@ -53,5 +53,6 @@ area_perimeter.py contains individual functions for:
   - square_perimeter(length)
   - calc_rectangle(length, width)
   - calc_circle(radius)
-  - calc_triangle(base, height) (right-angled only)  
+  - calc_triangle(base, height) (right-angled only)
+
 Each function returns either a single value (area/perimeter) or a tuple with both.
