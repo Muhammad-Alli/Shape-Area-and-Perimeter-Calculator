@@ -36,7 +36,7 @@ python main.py
 
 ## Usage Example
 
-```bash
+```
   Please enter the shape you want the area and perimeter calculated for: rectangle
   Please enter the length of the rectangle in meters: 5
   Please enter the width of the rectangle in meters: 3
