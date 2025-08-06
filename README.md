@@ -46,7 +46,7 @@ python main.py
 ```
 ---
 
-##Behind the Scenes
+## Behind the Scenes
 
 area_perimeter.py contains individual functions for:
   - square_area(length)
